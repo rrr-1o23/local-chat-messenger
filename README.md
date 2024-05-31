@@ -1,4 +1,4 @@
-### local-chat-messenger
+### local-messaging-system
 
 pythonのUDPを用いたソケット通信とfakerパッケージを使用して，クライアントサーバ間で情報をやりとりするシンプルなアプリケーションです．
 
